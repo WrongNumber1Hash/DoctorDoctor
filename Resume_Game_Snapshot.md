@@ -1,6 +1,12 @@
 ## Resume Game Snapshot
 
-
+Resume game after entering in the:
+- Current round of the game
+- How many rounds left in the game.
+- Roles and # of Players in the Game.
+- How much money each player has and how much money the hospital has.
+- number of non-player characters in each room of the hospital.
+- number of cards in each player's hand and left in the deck.
 
 ## Example #1
 
