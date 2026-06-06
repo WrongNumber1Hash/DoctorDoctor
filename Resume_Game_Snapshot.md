@@ -16,15 +16,24 @@ Resume game after entering in the:
 5. If Player decides to change a card with one in the pile, then that takes up their turn
 6. If Player has the power to move a patient into a room (Upstairs/Treatment/Discharge), then can move one patient. If there is a player who is a patient, there can be discussion about moving them or not moving them.
 7. Player then calculates costs and income
-8. End Player turn
+8. Discussion of Admin tasks - will a student intern be hired or a student nurse
+9. End Player turn
    
 For playing against the AI, when the human player is ready:
 👉 Human Player turn ended. Next NPC Player turn.
 
 ## Gameboard Example #2 
 It is round 4. 
+
 There are 17 patients on the board.
-9 are in reception and 8 are in triage.
+
+9 are in reception and 8 are in triage. 
+
+GenAI is playing 1 NPC as a nurse and 1 human player is playing as a doctor.
+
+The NPC nurse has $100. The human player doctor has $200.
+
+The admin has $625 left. 
 
  ### Example #3
 
@@ -43,8 +52,8 @@ That’s exactly the purpose of the **Resume Snapshot / Session Log**. Here’s 
 
 ### 1️⃣ Why copy the last status update
 
-* **Preserves authoritative state:** Ball position, down, drive direction, first down progress, quarter, and timeouts are all captured.
-* **Prevents ambiguity:** Without it, players might misremember blocked squares, drive direction, or yardage.
+* **Preserves authoritative state:** # of Patients, Round #, Player Cash Balance, Hospital Cash Balance, Cards Played, and Cards left are all captured.
+* **Prevents ambiguity:** Without it, players might misremember Cards held, cash balance, or Rounds played.
 * **Supports rule consistency:** If rules are updated later, the snapshot can reference the **Rules Version** used.
 * **Enables fast resume:** Paste it into chat and everyone is instantly back in sync, no debate needed.
 
@@ -53,7 +62,7 @@ That’s exactly the purpose of the **Resume Snapshot / Session Log**. Here’s 
 ### 2️⃣ Recommended Workflow for Suspension
 
 1. **Player declares:** “I want to suspend the game.”
-2. **Copy the last Resume Snapshot** exactly as it appears (including ball, down, drive direction, blocked squares if possible).
+2. **Copy the last Resume Snapshot** exactly as it appears (including round, player last move, cash balance, cards played, cards left if possible).
 3. **Save it externally** (clipboard, document, notes).
 4. When ready to resume:
 
@@ -76,7 +85,7 @@ That’s exactly the purpose of the **Resume Snapshot / Session Log**. Here’s 
   ## Resume Game Snapshot
   - Resumed from last saved snapshot (above)
   ```
-* Include **blocked squares or board section** if the game is complex, so players can reference visual positions.
+* Include **position of patients and cards played** if the game is complex, so players can reference visual positions.
 
 ---
 
