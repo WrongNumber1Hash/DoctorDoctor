@@ -5,31 +5,29 @@
 ## Materials
 
 * 1 standard 52-card deck (no jokers)
-* 1 coin per player
+* 1 coin 
 * Pencil and paper (or notes app) for tokens/scorekeeping
-
+* Track passage of time from 1-24 for hours in a day
 ---
-
 ## Player Roles
 
 * How many Players?
+* Are they Admin/Patient/Nurse/Doctor?
 
 ## Card-to-Item Mapping
 
 ### Number & Face Cards
 
-| Card        | Item        | Prompt                                                |
+| Card        | Role       | Description                                 |
 | ----------- | -------------- | ----------------------------------------------------- |
-| 2, 3        |       |                 |
-| 4, 5        |        |   |
-| 6, 7        |         |             |
-| 8, 9        |       |           |
-| 10, Jack    |       |            |
-| Queen, King |  |  |
-| Ace         |        |    |
+| 2 - 9       |  Patients      |   32 patients total, with 8 at start and 1 joining every hour |
+| 10          |  Event         |   After dinner (Stomach pain), Exercising (Fall), Family Arguement (Chest Pain), Respiratory Illness      |
+| Jack        |  Sympton       |   Stomach pain, Fall, Chest Pain, Respiratory Illness        |
+| Queen       |  Illness       |  |
+| King        |  Severity       |             |
+| Ace         |  Treatment      |    |
 
 ---
-
 ## Optional Depth Rules (Recommended)
 
 These rules add flavor but can be ignored for simpler play.
