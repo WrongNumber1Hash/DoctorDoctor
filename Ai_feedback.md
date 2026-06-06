@@ -1,5 +1,16 @@
 # Using GenAI to review rules and structure
 
+So below I will add prompts to use with one of the GenAI chatbots to review gameplay, rules and additions or fixes for the game. I use the following GenAi chatbots, but you can try with any provider you like that you have an account with.
+
+- Chatgpt
+- Claude
+- Copilot
+- Gemini
+- Meta
+- Perplexity
+- Mistral
+- Deepseek
+
 ## Preparation
 
 1. I made a game. Can you suggest any gaps?
