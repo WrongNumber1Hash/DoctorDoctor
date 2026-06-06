@@ -10,14 +10,11 @@ This document explains **why major rules were changed, replaced, or clarified** 
 
 The goal of these changes is to improve:
 
-* Strategic depth
-* Spatial clarity
+* Basis in real cases in hospitals
+* Incentives to move patients
 * Fairness and balance
-* Rules determinism (fewer edge-case disputes)
-
-
+* Provide simple rules with more options to add on
 ---
-
 ## 10. Deprecated Rules Tracking
 
 **What changed:**
