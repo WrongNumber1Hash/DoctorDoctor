@@ -8,14 +8,23 @@ Resume game after entering in the:
 - number of non-player characters in each room of the hospital.
 - number of cards in each player's hand and left in the deck.
 
-## Example #1
-
-
-When ready:
-👉 Say “Play locked” for 3rd & 2.
+## Turn
+1. Player Turn Start
+2. Patients Added to Reception and Triage
+3. Players start from clockwise
+4. Player can play a card under a patient either Event/Symptom/Illness/Severity/Treatment
+5. If Player decides to change a card with one in the pile, then that takes up their turn
+6. If Player has the power to move a patient into a room (Upstairs/Treatment/Discharge), then can move one patient. If there is a player who is a patient, there can be discussion about moving them or not moving them.
+7. Player then calculates costs and income
+8. End Player turn
+   
+For playing against the AI, when the human player is ready:
+👉 Human Player turn ended. Next NPC Player turn.
 
 ## Gameboard Example #2 
-
+It is round 4. 
+There are 17 patients on the board.
+9 are in reception and 8 are in triage.
 
  ### Example #3
 
