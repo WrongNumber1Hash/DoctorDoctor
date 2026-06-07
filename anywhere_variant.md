@@ -21,7 +21,7 @@
 | Card        | Role       | Description                                 |
 | ----------- | -------------- | ----------------------------------------------------- |
 | 2 - 9       |  Patients      |   32 patients total, with 8 at start and 1 joining every hour |
-| 10          |  Event         |   After dinner (Stomach pain), Exercising (Fall), Family Arguement (Chest Pain), Respiratory Illness      |
+| 10          |  Event         |   After dinner (Stomach pain), Exercising (Fall), Family Argument (Chest Pain), Respiratory Illness      |
 | Jack        |  Sympton       |   Stomach pain, Fall, Chest Pain, Respiratory Illness        |
 | Queen       |  Illness       | See the Glossary of Medical Terms to see what illnesses are related to the symptoms
 | King        |  Severity      | Severity is between 1 - 4 with 4 being the highest              |
