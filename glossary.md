@@ -128,7 +128,7 @@ These are acute, life-threatening conditions or severe complications that requir
 * Ectopic Pregnancy: A fertilized egg growing outside the uterus, risking severe internal bleeding.
 * Peritonitis: An infection of the abdominal lining, often caused by a ruptured organ.
 
-If you are evaluating stomach pain right now, please let me know:
+### Questions to evaluate a Patient's condition
 
 * Where is the pain located, and how long have you had it?
 * Are you experiencing any red-flag symptoms like fever, repetitive vomiting, or dizziness?
