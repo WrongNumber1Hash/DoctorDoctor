@@ -94,6 +94,46 @@ To help narrow down the severity of your specific situation, let me know:
 * Does the pain stay in one spot, or does it move around?
 * Are you having any trouble keeping fluids down?
 
+If it was broken down into 4 levels of severity, then:
+Here is the expanded breakdown of abdominal conditions reorganized into four distinct levels of severity, ranging from mild temporary issues to life-threatening emergencies.
+## Severity 1: Mild & Self-Limiting
+These conditions are temporary, harmless, and usually resolve on their own or with basic home care and over-the-counter remedies.
+
+* Gas: Trapped air causing sharp, brief cramps or bloating.
+* Constipation: Infrequent bowel movements causing a dull ache or fullness.
+* Indigestion: Temporary burning or discomfort after eating a heavy meal.
+
+## Severity 2: Moderate, Non-Emergency & Chronic
+These conditions require a scheduled doctor's visit for a formal diagnosis, lifestyle changes, or daily prescription medications to manage.
+
+* Food Intolerances: Celiac disease or lactose intolerance causing digestive distress.
+* GERD: Chronic acid reflux causing frequent burning in the upper abdomen.
+* Irritable Bowel Syndrome (IBS): A common disorder causing recurrent cramping and bloating.
+* Mild Stomach Flu: Viral gastroenteritis causing temporary vomiting or diarrhea without severe dehydration.
+
+## Severity 3: Severe & Requiring Prompt Medical Evaluation
+These conditions are more serious, cause significant pain, and require timely medical care from a doctor or urgent care clinic to prevent worsening or major complications.
+
+* Peptic Ulcers & Gastritis: Sores or severe inflammation in the stomach lining.
+* Gallstones: Stones blocking bile ducts, causing severe upper right pain.
+* Diverticulitis: Infected pouches in the colon causing localized lower left pain.
+* Urinary Tract Infection (UTI): Bacterial infection causing lower belly pressure and painful urination.
+* Endometriosis or Ovarian Cysts: Gynecological conditions causing intense pelvic pain.
+
+## Severity 4: Critical Emergency (Seek Immediate Care)
+These are acute, life-threatening conditions or severe complications that require immediate emergency room evaluation or emergency surgery.
+
+* Appendicitis: A bursting or inflamed appendix causing severe lower right pain.
+* Bowel Obstruction: A complete blockage in the intestines that stops food and fluids.
+* Ectopic Pregnancy: A fertilized egg growing outside the uterus, risking severe internal bleeding.
+* Peritonitis: An infection of the abdominal lining, often caused by a ruptured organ.
+
+If you are evaluating stomach pain right now, please let me know:
+
+* Where is the pain located, and how long have you had it?
+* Are you experiencing any red-flag symptoms like fever, repetitive vomiting, or dizziness?
+* Does the pain hurt significantly more when you press down on your stomach and release?
+
 ## Final Note
 
 If a term is capitalized in the rules and not defined elsewhere, it should be interpreted according to this glossary. In case of conflict, **rules.md** takes precedence, followed by this glossary.
