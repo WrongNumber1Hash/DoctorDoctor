@@ -25,7 +25,7 @@
 | Jack        |  Sympton       |   Stomach pain, Fall, Chest Pain, Respiratory Illness        |
 | Queen       |  Illness       | See the Glossary of Medical Terms to see what illnesses are related to the symptoms
 | King        |  Severity      | Severity is between 1 - 4 with 4 being the highest              |
-| Ace         |  Treatment      |    |
+| Ace         |  Treatment     | Treatment is based on which illness it is matches   |
 
 ---
 ## Optional Depth Rules (Recommended)
@@ -34,10 +34,10 @@ These rules add flavor but can be ignored for simpler play.
 
 ### Card Color (Red / Black)
 
-| Color | Meaning              | Example Use                                                    |
+| Color | Meaning              | Example Use                                                  |
 | ----- | -------------------- | -------------------------------------------------------------- |
-| Red   |   |                          |
-| Black |  |  |
+| Red   | Must spend 4 rounds in a room  | Patient with 1 red card has to spend 4 rounds in the room they are in. This increases by 1 for every red card |
+| Black | Patient with a  black card has priority in moving to next room. | This increases by 1 for every black card | 
 
 Players incorporate this naturally into their story.
 
