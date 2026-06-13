@@ -15,6 +15,13 @@
 * Are they Admin/Patient/Nurse/Doctor?
 
 ## Card-to-Item Mapping
+52 total cards, including 2 wildcards
+
+1. Event
+2. Symptom - 
+3. Illness - Illness area is defined by Suit. Write down reminder. 
+4. Severity
+5. Cost
 
 ### Number & Face Cards
 
@@ -47,10 +54,10 @@ Players incorporate this naturally into their story.
 
 | Suit            | Focus     | Guiding Question                           |
 | --------------- | --------- | ------------------------------------------ |
-| Hearts          |    |                          |
-| Diamonds        |  |                        |
-| Spades          |  |                         |
-| Clubs (Clovers) |   |  |
+| Hearts          | Head & Neck |Patient is complaining of pain in head or neck area|
+| Diamonds        | Chest & Back|Patient is complaining of pain in chest or back    |
+| Spades          | Stomach & Pelvis | Patient is complaining of pain in stomach or pelvis|
+| Clubs (Clovers) | Appendages  | Patient is complaining of pain in arms, hands, leg feet |
 
 > These do **not** restrict stories — they simply guide them.
 
